@@ -1,0 +1,5 @@
+const ContentFunctions = {
+
+}
+
+export { ContentFunctions };

@@ -1,0 +1,27 @@
+{
+  "sections": [
+    {
+      "title": "Popular",
+      "items": [
+        { 
+          "id": "10007",
+          "name": "Swordfish",
+          "type": "Movie",
+          "image": "https://i.imgur.com/tRKrseV.jpg"
+        },
+        { 
+          "id": "10003",
+          "name": "Spider-man Into the spiderverse",
+          "type": "Movie",
+          "image": "https://i.imgur.com/RdvvxHu.jpg"
+        },
+        { 
+          "id": "10018",
+          "name": "Devil's Advocate",
+          "type": "Movie",
+          "image": "https://i.imgur.com/yRbV8s1.jpg"
+        }
+      ]
+    }
+  ]
+}

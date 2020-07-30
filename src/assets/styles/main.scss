@@ -1,0 +1,24 @@
+.page-container {
+  padding: 20px;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a .nav-item {
+  color: #fff;
+  padding: 10px;
+  border-bottom: 3px solid #303030;
+}
+
+a:hover .nav-item,
+a:focus .nav-item {
+  border-bottom: 3px solid #8c65c7;
+}
+
+div.form-control {
+  background: #333;
+  color: #555;
+}

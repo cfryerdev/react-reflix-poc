@@ -1,0 +1,85 @@
+.block-item {
+  padding: 10px;
+  background: #000;
+  border: 5px solid #222;
+  width: 340px;
+  height: 180px;
+  font-size: 12px;
+  position: relative;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.block-item:hover,
+.block-item:focus {
+  border: 5px solid #8c65c7 !important;
+  -webkit-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+}
+
+.block-text {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding: 3px;
+  padding-left: 8px;
+  display: block;
+  width: 100%;
+  color: #fff;
+  background: #000;
+  opacity: 0.8;
+}
+
+.block-row {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+div.focus-item,
+button.focus-item,
+.focus-item.btn,
+.focus-item.btn {
+  border: 5px solid #222;
+}
+
+button.focus-item:hover,
+button.focus-item:focus,
+.focus-item.btn:hover,
+.focus-item.btn:focus {
+  border: 5px solid #8c65c7;
+  -webkit-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+}
+
+div.focus-item:hover,
+div.focus-item:focus {
+  border: 5px solid #8c65c7;
+  -webkit-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+  box-shadow: 0px 4px 8px 0px rgba(0,0,0,1);
+}
+
+.fake-input {
+  padding: 5px 5px 5px 10px;
+  background: #333;
+}
+
+.keyboard div.focus-item,
+.keyboard .focus-item,
+.focus-item.btn,
+.focus-item.btn {
+  border: 5px solid #333;
+}
+
+
+.keyboard div.focus-item:hover,
+.keyboard div.focus-item:focus,
+.keyboard .focus-item:hover,
+.keyboard .focus-item:focus {
+  border: 5px solid #8c65c7;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}

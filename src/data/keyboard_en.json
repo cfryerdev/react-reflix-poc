@@ -1,0 +1,24 @@
+{
+	"default": [
+	    ["a","b","c","d","e","f","g","h","i","j","k","l","m",".com"],
+	    ["n","o","p","q","r","s","t","u","v","w","x","y","z",".net"],
+	    ["1","2","3","4","5","6","7","8","9","0","@",".","-",".edu"]
+	],
+	"shiftKeys": [
+		["A","B","C","D","E","F","G","H","I","J","K","L","M",".COM"],
+	    ["N","O","P","Q","R","S","T","U","V","W","X","Y","Z",".NET"],
+	    ["1","2","3","4","5","6","7","8","9","0","@",".","-",".EDU"]
+	],
+	"charKeys": [
+		[null,"~","`","\\","/","|","=","+","<",">","_","¥","£",null],
+	    [null,"[","{","}","]","'","\"",";",":","?",",","•","€",null],
+	    [null,"!","#","$","%","^","&","*","(",")","@",".","-",null]
+	],
+	"controls": [
+		{ "command": "Done", "icon": null, "isToggle": false },
+		{ "command": "Space", "icon": "far fa-window-minimize", "isToggle": false },
+		{ "command": "Delete", "icon": "fas fa-backspace", "isToggle": false },
+		{ "command": "Shift", "icon": "fas fa-chevron-up", "isToggle": true },
+		{ "command": "Chars", "icon": "fas fa-ellipsis-h", "isToggle": true }
+	]
+}

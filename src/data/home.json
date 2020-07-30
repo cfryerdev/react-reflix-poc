@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "title": "Continue Watching",
+      "items": [
+        { 
+          "id": "00001",
+          "name": "Comedians In Cars Getting Coffee",
+          "type": "Series",
+          "image": "https://i.imgur.com/XrGIEUm.jpg"
+        },
+        { 
+          "id": "00002",
+          "name": "The Office (US)",
+          "type": "Series",
+          "image": "https://i.imgur.com/r7pBEiV.jpg"
+        },
+        { 
+          "id": "10003",
+          "name": "Spider-man Into the spiderverse",
+          "type": "Movie",
+          "image": "https://i.imgur.com/RdvvxHu.jpg"
+        },
+        { 
+          "id": "00005",
+          "name": "F is for Family",
+          "type": "Series",
+          "image": "https://i.imgur.com/pLcH95u.jpg"
+        },
+        { 
+          "id": "00022",
+          "name": "Better Call Saul",
+          "type": "Series",
+          "image": "https://i.imgur.com/eN0RBtT.jpg"
+        },
+        { 
+          "id": "00067",
+          "name": "Peaky Blinders",
+          "type": "Series",
+          "image": "https://i.imgur.com/7CwCgcm.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Popular",
+      "items": [
+        { 
+          "id": "10007",
+          "name": "Swordfish",
+          "type": "Movie",
+          "image": "https://i.imgur.com/tRKrseV.jpg"
+        },
+        { 
+          "id": "00005",
+          "name": "F is for Family",
+          "type": "Series",
+          "image": "https://i.imgur.com/pLcH95u.jpg"
+        },
+        { 
+          "id": "00001",
+          "name": "Comedians In Cars Getting Coffee",
+          "type": "Series",
+          "image": "https://i.imgur.com/XrGIEUm.jpg"
+        },
+        { 
+          "id": "00022",
+          "name": "Better Call Saul",
+          "type": "Series",
+          "image": "https://i.imgur.com/eN0RBtT.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Recently Added",
+      "items": [
+        { 
+          "id": "00008",
+          "name": "Halt and Catch Fire",
+          "type": "Series",
+          "image": "https://i.imgur.com/hlIoelN.jpg"
+        },
+        { 
+          "id": "10018",
+          "name": "Devil's Advocate",
+          "type": "Movie",
+          "image": "https://i.imgur.com/yRbV8s1.jpg"
+        }
+      ]
+    }
+  ]
+}
